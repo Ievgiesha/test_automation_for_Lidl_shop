@@ -1,2 +1,4 @@
-package stepDefinitions;public class cart {
+package stepDefinitions;
+
+public class cart {
 }
